@@ -226,3 +226,4 @@ See the [tasks.md](.kiro/specs/calorie-tracker-app/tasks.md) file for detailed i
 # FitCalory
 # FitCalory
 # FitCalory
+# FitCalory
