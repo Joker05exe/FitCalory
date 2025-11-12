@@ -1,0 +1,302 @@
+[
+  {
+    "id": "food_001",
+    "name": "Arroz blanco cocido",
+    "brand": null,
+    "caloriesPer100g": 130,
+    "proteinPer100g": 2.7,
+    "carbsPer100g": 28.2,
+    "fatsPer100g": 0.3,
+    "fiberPer100g": 0.4,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Taza", "grams": 158, "unit": "taza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_002",
+    "name": "Pechuga de pollo cocida",
+    "brand": null,
+    "caloriesPer100g": 165,
+    "proteinPer100g": 31,
+    "carbsPer100g": 0,
+    "fatsPer100g": 3.6,
+    "fiberPer100g": 0,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Pechuga mediana", "grams": 120, "unit": "pieza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_003",
+    "name": "Huevo entero cocido",
+    "brand": null,
+    "caloriesPer100g": 155,
+    "proteinPer100g": 13,
+    "carbsPer100g": 1.1,
+    "fatsPer100g": 11,
+    "fiberPer100g": 0,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Huevo grande", "grams": 50, "unit": "pieza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_004",
+    "name": "Plátano",
+    "brand": null,
+    "caloriesPer100g": 89,
+    "proteinPer100g": 1.1,
+    "carbsPer100g": 22.8,
+    "fatsPer100g": 0.3,
+    "fiberPer100g": 2.6,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Plátano mediano", "grams": 118, "unit": "pieza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_005",
+    "name": "Manzana",
+    "brand": null,
+    "caloriesPer100g": 52,
+    "proteinPer100g": 0.3,
+    "carbsPer100g": 13.8,
+    "fatsPer100g": 0.2,
+    "fiberPer100g": 2.4,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Manzana mediana", "grams": 182, "unit": "pieza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_006",
+    "name": "Pan integral",
+    "brand": null,
+    "caloriesPer100g": 247,
+    "proteinPer100g": 13,
+    "carbsPer100g": 41,
+    "fatsPer100g": 3.4,
+    "fiberPer100g": 7,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Rebanada", "grams": 30, "unit": "rebanada"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_007",
+    "name": "Leche descremada",
+    "brand": null,
+    "caloriesPer100g": 34,
+    "proteinPer100g": 3.4,
+    "carbsPer100g": 5,
+    "fatsPer100g": 0.1,
+    "fiberPer100g": 0,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Vaso", "grams": 240, "unit": "vaso"},
+      {"name": "Taza", "grams": 240, "unit": "taza"}
+    ]
+  },
+  {
+    "id": "food_008",
+    "name": "Yogur natural",
+    "brand": null,
+    "caloriesPer100g": 59,
+    "proteinPer100g": 3.5,
+    "carbsPer100g": 4.7,
+    "fatsPer100g": 3.3,
+    "fiberPer100g": 0,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Envase", "grams": 125, "unit": "envase"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_009",
+    "name": "Avena cruda",
+    "brand": null,
+    "caloriesPer100g": 389,
+    "proteinPer100g": 16.9,
+    "carbsPer100g": 66.3,
+    "fatsPer100g": 6.9,
+    "fiberPer100g": 10.6,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Taza", "grams": 80, "unit": "taza"},
+      {"name": "Porción", "grams": 40, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_010",
+    "name": "Pasta cocida",
+    "brand": null,
+    "caloriesPer100g": 131,
+    "proteinPer100g": 5,
+    "carbsPer100g": 25,
+    "fatsPer100g": 1.1,
+    "fiberPer100g": 1.8,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Taza", "grams": 140, "unit": "taza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_011",
+    "name": "Brócoli cocido",
+    "brand": null,
+    "caloriesPer100g": 35,
+    "proteinPer100g": 2.4,
+    "carbsPer100g": 7,
+    "fatsPer100g": 0.4,
+    "fiberPer100g": 3.3,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Taza", "grams": 156, "unit": "taza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_012",
+    "name": "Zanahoria cruda",
+    "brand": null,
+    "caloriesPer100g": 41,
+    "proteinPer100g": 0.9,
+    "carbsPer100g": 9.6,
+    "fatsPer100g": 0.2,
+    "fiberPer100g": 2.8,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Zanahoria mediana", "grams": 61, "unit": "pieza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_013",
+    "name": "Tomate",
+    "brand": null,
+    "caloriesPer100g": 18,
+    "proteinPer100g": 0.9,
+    "carbsPer100g": 3.9,
+    "fatsPer100g": 0.2,
+    "fiberPer100g": 1.2,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Tomate mediano", "grams": 123, "unit": "pieza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_014",
+    "name": "Atún en agua",
+    "brand": null,
+    "caloriesPer100g": 116,
+    "proteinPer100g": 25.5,
+    "carbsPer100g": 0,
+    "fatsPer100g": 0.8,
+    "fiberPer100g": 0,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Lata", "grams": 142, "unit": "lata"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_015",
+    "name": "Almendras",
+    "brand": null,
+    "caloriesPer100g": 579,
+    "proteinPer100g": 21.2,
+    "carbsPer100g": 21.6,
+    "fatsPer100g": 49.9,
+    "fiberPer100g": 12.5,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Puñado", "grams": 28, "unit": "puñado"},
+      {"name": "Porción", "grams": 30, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_016",
+    "name": "Aguacate",
+    "brand": null,
+    "caloriesPer100g": 160,
+    "proteinPer100g": 2,
+    "carbsPer100g": 8.5,
+    "fatsPer100g": 14.7,
+    "fiberPer100g": 6.7,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Aguacate mediano", "grams": 150, "unit": "pieza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_017",
+    "name": "Frijoles negros cocidos",
+    "brand": null,
+    "caloriesPer100g": 132,
+    "proteinPer100g": 8.9,
+    "carbsPer100g": 23.7,
+    "fatsPer100g": 0.5,
+    "fiberPer100g": 8.7,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Taza", "grams": 172, "unit": "taza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_018",
+    "name": "Queso panela",
+    "brand": null,
+    "caloriesPer100g": 321,
+    "proteinPer100g": 25,
+    "carbsPer100g": 3.6,
+    "fatsPer100g": 23,
+    "fiberPer100g": 0,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Rebanada", "grams": 30, "unit": "rebanada"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_019",
+    "name": "Tortilla de maíz",
+    "brand": null,
+    "caloriesPer100g": 218,
+    "proteinPer100g": 5.7,
+    "carbsPer100g": 44.6,
+    "fatsPer100g": 2.8,
+    "fiberPer100g": 5.2,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Tortilla", "grams": 30, "unit": "pieza"},
+      {"name": "Porción", "grams": 100, "unit": "porción"}
+    ]
+  },
+  {
+    "id": "food_020",
+    "name": "Café negro",
+    "brand": null,
+    "caloriesPer100g": 2,
+    "proteinPer100g": 0.3,
+    "carbsPer100g": 0,
+    "fatsPer100g": 0,
+    "fiberPer100g": 0,
+    "barcode": null,
+    "servingSizes": [
+      {"name": "Taza", "grams": 240, "unit": "taza"},
+      {"name": "Porción", "grams": 240, "unit": "porción"}
+    ]
+  }
+]
